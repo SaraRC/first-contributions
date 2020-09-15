@@ -1653,6 +1653,7 @@ https://markdown-dungeon.netlify.app/- [Abbey Dabiri](https://github.com/abbeyda
 - [Shubhankar Unhale](https://github.com/shubhankarunhale)
 - [Andrea Grillo](https://github.com/andregri)
 - [Mark Ryan 🚀](https://github.com/marksparkyryan)
+- [Sara Cellucci](https://github.com/SaraRC)
 - [Ricardo Patiño](https://github.com/richypati)
 - [Pranav Garg](https://github.com/PranavGarg01/)
 - [Nour Grati] (https://github.com/Nour-Grati)
